@@ -1,0 +1,48 @@
+
+*{
+    margin:0%;
+    padding:0%;
+}
+.content{
+   border:5px solid lightgray;
+   text-align: center;
+   width:500px;
+   height: 550px;
+   box-sizing:border-box;
+  display: inline-block;
+background-color: lightblue;
+  justify-content:center;
+  align-items:center;
+  margin-top: 200px;
+}
+div{
+    vertical-align: middle;
+    position:relative;
+}
+.auth{
+    align-items: center;
+    width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  height:30px;
+
+}
+.sub{
+    background-color:lightgreen;
+    width:300px;
+    height: 30px;
+}
+.subb{
+  background-color:cornflowerblue;
+  width:300px;
+  height: 30px;
+}
+
+body {
+    text-align:center;
+align-items: baseline;
+background-color: white;
+}
